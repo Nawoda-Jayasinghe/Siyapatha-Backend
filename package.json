@@ -1,7 +1,7 @@
 {
-  "name": "lesson_01",
+  "name": "siyapatha-backend",
   "version": "1.0.0",
-  "description": "techNotes MERN Project",
+  "description": "siyapatha-backend",
   "main": "server.js",
   "scripts": {
     "start": "node server",
